@@ -1,0 +1,20 @@
+{
+  "name": "bitcoin-candle-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "amqplib": "^0.9.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.8.2",
+    "@types/node": "^17.0.36",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.7.2"
+  }
+}
