@@ -8,5 +8,5 @@
   <li>MongoDB</li>
   <li>Axios</li>
   <li>Dotenv</li>
-  <li.Amqplib<p></li>
+  <li>Amqplib</li>
 </ul>
